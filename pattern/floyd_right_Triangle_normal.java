@@ -1,4 +1,4 @@
-package Git.pattern.floyd;
+
 import java.util.Scanner;
 
 public class floyd_right_Triangle_normal{
