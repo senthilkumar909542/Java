@@ -6,7 +6,6 @@ public class ionixx_4 {
         int len =sc.nextInt();
 
 
-
         int count=0;
 
         for(int i=0;i<len;i++){
