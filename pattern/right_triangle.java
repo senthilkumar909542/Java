@@ -1,4 +1,4 @@
-package Git.pattern;
+
 import java.util.*;
 //right triangle
 public class right_triangle{
