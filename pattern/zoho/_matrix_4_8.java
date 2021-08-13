@@ -1,5 +1,3 @@
-package com.zoho;
-
 import java.util.Scanner;
 
 public class _matrix_4_8 {
