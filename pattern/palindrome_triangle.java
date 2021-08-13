@@ -1,4 +1,3 @@
-package Git.pattern;
 import java.util.Scanner;
 
 public class palindrome_triangle {
