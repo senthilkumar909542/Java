@@ -1,4 +1,3 @@
-package Git.pattern;
 import java.util.*;
 //pyramid
 public class pyramid_pattern_2 {
