@@ -1,4 +1,3 @@
-package com.zoho;
 import java.util.Scanner;
 
 public class central_change {
