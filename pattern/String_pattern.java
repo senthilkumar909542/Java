@@ -1,4 +1,4 @@
-package Git.pattern;
+
 import java.util.*;
 
 public class String_pattern {
