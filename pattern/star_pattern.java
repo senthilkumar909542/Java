@@ -1,4 +1,4 @@
-package Git.pattern;
+
 import java.util.Scanner;
 
 public class star_pattern {
