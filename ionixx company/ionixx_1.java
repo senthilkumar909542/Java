@@ -31,9 +31,4 @@ public class ionixx_1 {
     }
 }
 
-// one step the robot can move 1,2,3,4,5
-// sample input 1:  10
-// output:       :   2
 
-// sample input 2:  12
-// output        :  3
